@@ -1,0 +1,5 @@
+{
+  "name": "Live Sports Tracker",
+  "description": "Real-time sports match tracking using SportAPI",
+  "requestFramePermissions": []
+}
